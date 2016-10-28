@@ -1,7 +1,7 @@
 Release notes 2.0.0
 
 - Fantomcoin 2.0 by XDN-project, major FCN update to the latest cryptonotefoundation codebase
-- New FCN+XMR merged merged mining
+- New FCN+XMR merged mining
 - Default block size - 100Kb
 
 Release notes 0.8.9
